@@ -10,7 +10,8 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>VEGA concert player</summary>
-		<description>Plays concerts from the music venue VEGA in Copenhagen, Denmark. Check www.vega.dk for concert listings.</description>
+		<description>Plays recorded concerts from the music venue VEGA in Copenhagen, Denmark. Check www.vega.dk for concert listings.
+NOTE: This plugin does not work in XBMC 10.0 "Dharma" on Windows due to a bug in XBMC (#10920).</description>
 		<platform>all</platform>
 	</extension>
 </addon>
